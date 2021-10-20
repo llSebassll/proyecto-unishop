@@ -1,0 +1,9 @@
+#Archivos compilados
+*.class
+
+#Archivos temporales de Maven
+/**/terjet/
+
+#Archivos de IntelliJ
+*.iml
+/.idea
